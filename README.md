@@ -1,3 +1,7 @@
+<div align="center">
+	<img src="logo.png" alt="Qurit Awesome">>
+</div>
+
 # Qurit-Awsome
 Below is a list of tools we at Qurit find useful when we are developing new radiomolecular imaging and therapy techniques.
 

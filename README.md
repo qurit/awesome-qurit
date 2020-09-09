@@ -34,7 +34,7 @@ Below is a list of tools we at Qurit find useful when we are developing new radi
 - Extensive list of pretrained computer vision models. [Link](https://github.com/balavenkatesh3322/CV-pretrained-model) 
 - Extensive list of open access medical image repositories/datasets. [Link](http://www.aylward.org/notes/open-access-medical-image-repositories) 
 
-## Informative Books / Videos 
+## Informative Books & Videos 
 - [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) with Josh Starmer is an informative YouTube channel that talks about the latest in statistics and machine learning 
 - [Handbook of Biological Statistics](http://www.biostathandbook.com/) is a great resource which details t tests, regressions, general science, ect... 
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) is a really good textbook for mathematics and stats concepts which gives tools to understand at an intuitive leve

@@ -1,8 +1,8 @@
 <div align="center">
-	<img src="logo.png" alt="Qurit Awesome">
+<img src="logo.png" alt="Qurit Awesome">
 </div>
 
-# Qurit-Awsome
+# Qurit-Awsome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Below is a list of tools we at Qurit find useful when we are developing new radiomolecular imaging and therapy techniques.
 
 ## Contents
@@ -44,16 +44,4 @@ Below is a list of tools we at Qurit find useful when we are developing new radi
 - [Power Bi](https://powerbi.microsoft.com/en-us/) is a powerful, Microsoft office like, graphing suite.  Much more capable then excel. 
 - [Mathpix](https://mathpix.com/) is a great tool that converts images of equations into different formats. 
 - [Pandoc](https://pandoc.org/) is a great tool for converting latex documents into a variety of different formats. 
-- Creative Cloud is free for UBC students and Staff. [Link](https://it.ubc.ca/services/desktop-print-services/software-licensing/adobe-products-labs-and-shared-devices)
-
-
-
-
- 
-
-
-
-
-  
-
-
+- Creative Cloud is free for UBC students and Staff. [Link](https://it.ubc.ca/services/desktop-print-services/software-licensing/adobe-products-labs-and-shared-devices

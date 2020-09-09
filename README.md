@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="logo.png" alt="Qurit Awesome">>
+	<img src="logo.png" alt="Qurit Awesome">
 </div>
 
 # Qurit-Awsome
@@ -7,12 +7,19 @@ Below is a list of tools we at Qurit find useful when we are developing new radi
 
 ## Contents
 - [Imaging Software](#imaging-software)
+- [Coding Software](#coding-software)
 
 ## Imaging Software
 - [idoimaging.com](https://idoimaging.com/) is an amazing place to find free/open source medical imaging software/tools 
 - [NMMItools](https://nmmitools.org/) is a handy reference website for software tools to simulate, reconstruct and analyze synthetic or real data related to Nuclear Medicine and Molecular Imaging (NMMI) studies.
 - [Mango](http://ric.uthscsa.edu/mango/) is a viewer for medical research images. It provides analysis tools and a user interface to navigate image volumes. 
-- [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki) is an open source software package for the analysis and visualization of neuroimaging data. 
+- [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki) is an open source software package for the analysis and visualization of neuroimaging data.
+
+## Coding Software
+- Students get free JetBrains IDE’s (IntelliJ, PyCharm, ect…). Link 
+- Cyberdock is a good FTP / SFTP client for mac and windows. Link
+- VS Code is very good for remote development on VM's / Servers. Link
+- VS Code Remote X11 extension allowing viewing of the GUI of a remote workspace. Link 
 
 ## Datasets
 - [Image Datasets](https://sites.google.com/site/aacruzr/image-datasets) is another extensive list of image datasets 

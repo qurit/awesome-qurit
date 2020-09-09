@@ -2,7 +2,7 @@
 <img src="logo.png" alt="Qurit Awesome">
 </div>
 
-#Awesome-Qurit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Qurit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Below is a list of tools we at Qurit find useful when we are developing new radiomolecular imaging and therapy techniques.
 
 ## Contents

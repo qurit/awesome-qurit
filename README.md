@@ -1,5 +1,5 @@
 <div align="center">
-<img src="logo.png" alt="Qurit Awesome">
+<img src="logo.png" alt="Qurit Awesome" height="200">
 </div>
 
 # Awesome-Qurit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
